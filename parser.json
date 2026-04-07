@@ -1,8 +1,7 @@
 {
+  "lang": "poe_filter",
   "location": null,
   "url": "https://github.com/tree-sitter-grammars/tree-sitter-poe-filter",
   "semver": false,
-  "min_version": null,
-  "max_version": null,
-  "lang": "poe_filter"
+  "parser_version": "205a7d576984feb38a9fc2d8cfe729617f9e0548"
 }
